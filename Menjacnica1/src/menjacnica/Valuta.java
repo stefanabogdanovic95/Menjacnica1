@@ -64,4 +64,5 @@ public class Valuta {
 		return "Valuta [naziv=" + naziv + ", skraceniNaziv=" + skraceniNaziv + ", kursevi=" + kursevi + "]";
 	}
 	
+	
 }
