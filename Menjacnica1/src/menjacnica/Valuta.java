@@ -18,6 +18,12 @@ public class Valuta {
 	public void setSkraceniNaziv(String skraceniNaziv) {
 		this.skraceniNaziv = skraceniNaziv;
 	}
+	public LinkedList<Kurs> getKursevi() {
+		return kursevi;
+	}
+	public void setKursevi(LinkedList<Kurs> kursevi) {
+		this.kursevi = kursevi;
+	}
 	@Override
 	public int hashCode() {
 		final int prime = 31;
