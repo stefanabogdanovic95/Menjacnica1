@@ -77,7 +77,7 @@ import java.util.GregorianCalendar;
 		}
 		@Override
 		public String toString() {
-			return "Kurs [datum=" + datum + ", prodajniKurs=" + prodajniKurs + ", kupovniKurs=" + kupovniKurs
+			return "Kurs: [datum=" + datum + ", prodajniKurs=" + prodajniKurs + ", kupovniKurs=" + kupovniKurs
 					+ ", srednjiKurs=" + srednjiKurs + "]";
 		}
 		
