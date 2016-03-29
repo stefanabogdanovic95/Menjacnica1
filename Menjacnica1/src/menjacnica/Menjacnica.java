@@ -21,16 +21,16 @@ private LinkedList<Valuta> valute = new LinkedList<>();
 		for (int i = 0; i < valute.size(); i++) {
 			
 			if (valute.get(i).equals(valuta)) {
-				
 
-				
 					valute.get(i).getKursevi().add(kurs);
 					break;
 				}
 			
 
 			}
-		
+
+			
+
 
 	}
 
